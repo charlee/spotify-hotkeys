@@ -5,6 +5,8 @@
 // @description  Adds keyboard shortcuts (Left/Right arrows) to seek +/- 10 seconds on Spotify Web Player.
 // @author       Charlee Li
 // @match        https://open.spotify.com/*
+// @downloadURL  https://github.com/charlee/spotify-hotkeys/raw/refs/heads/master/src/index.user.js
+// @updateURL    https://github.com/charlee/spotify-hotkeys/raw/refs/heads/master/src/index.user.js
 // @grant        none
 // ==/UserScript==
 
