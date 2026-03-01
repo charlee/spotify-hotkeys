@@ -12,9 +12,9 @@ A pure JavaScript userscript that adds intuitive keyboard shortcuts to the Spoti
 ## Installation
 
 1. Install a userscript manager extension such as [Tampermonkey](https://www.tampermonkey.net/), [Violentmonkey](https://violentmonkey.github.io/), or [Greasemonkey](https://www.greasespot.net/).
-2. Create a new script in your manager.
-3. Copy the contents of `src/index.user.js` and paste it into the editor.
-4. Save the script and refresh your Spotify Web Player tab.
+2. **Direct Install**: Click [here](https://github.com/charlee/spotify-hotkeys/raw/refs/heads/master/src/index.user.js) to install the script directly.
+3. Alternatively, copy the contents of `src/index.user.js` and paste it into a new script in your manager.
+4. Refresh your Spotify Web Player tab.
 
 ## Technical Details
 
